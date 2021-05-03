@@ -90,7 +90,7 @@
 									<h5 class="h5">{job.fields.title}</h5>
 									<p>{job.fields.experience} of experience</p>
 								</div>
-								<a href="/careers/{job.id}" class="btn btn-pill btn-border-black">Know more</a>
+								<a href="/" class="btn btn-pill btn-border-black">Know more</a>
 							</div>
 						{/each}
 					</div>
